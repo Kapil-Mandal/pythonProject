@@ -1,0 +1,4 @@
+= wikipedia.summary(person, 1)
+    print(info)
+    talk(info)def take_command():
+    try:
